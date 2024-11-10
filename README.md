@@ -33,7 +33,6 @@ To set up the app locally, follow these steps:
 
 ```bash
 git clone https://github.com/upenderdeshaboina/mini-loan-techdome.git
-
 ```
 
 ### 2.Install Dependencies
